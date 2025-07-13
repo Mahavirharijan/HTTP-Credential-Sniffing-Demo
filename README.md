@@ -1,5 +1,3 @@
-# HTTP-Credential-Sniffing-Demo
-A basic network sniffing lab setup using Kali Linux and Wireshark to capture plaintext credentials transmitted over HTTP.
 # 🔍 Sniffing Lab: Capture Plaintext Credentials
 
 This project shows how to capture login credentials sent over the network in *plaintext* using tools like *Wireshark*.
